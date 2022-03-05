@@ -1,13 +1,9 @@
-## Arc Dark Theme For Gedit v1.0
+## Arc Dark Theme For Gedit & other text editors v1.0
 
 ![image](image0.png)
 ![image](image1.png)
 
-Tested on Xubuntu with the dark variant of arc-theme installed.
-
-This theme will work with gedit and pluma or most other text editors that support themes.
-
-This project is a fork of the [material theme](https://github.com/maateen/gedit-material-theme) by Maksudur Rahman Maateen.
+This theme will work with gedit, pluma, or most other text editors that support themes.
 
 ## Installation
 
@@ -26,3 +22,7 @@ This project is a fork of the [material theme](https://github.com/maateen/gedit-
 ## Project Page
 
 <https://techstop.github.io/arc-dark-theme-for-gedit/>
+
+## Credits
+
+This project is a fork of the [material theme](https://github.com/maateen/gedit-material-theme) by Maksudur Rahman Maateen, but with some improvements.
